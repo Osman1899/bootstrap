@@ -1,0 +1,42 @@
+body{
+    background-image: url(./img/background.jpg);
+}
+header {
+    background-color:rgb(133, 220, 247);
+}
+.texte {
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texte1 {
+    color: aliceblue;
+}
+.texte2 {
+    color: aliceblue;
+}
+.texte3 {
+    color: aliceblue;
+}
+.texte4 {
+    color: aliceblue;
+}
+.texte5 {
+    color: aliceblue;
+}
+.texte6 {
+    color: aliceblue;
+}
+.texte7 {
+    color: aliceblue;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
